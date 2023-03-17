@@ -1,0 +1,28 @@
+{
+  "name": "ch18-social-network-api",
+  "version": "1.0.0",
+  "description": "A social networking app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server",
+    "seed": "node seeds/seed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leann-labra/CH18-Social-Network-API.git"
+  },
+  "author": "Leann Labra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leann-labra/CH18-Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/leann-labra/CH18-Social-Network-API#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-router": "^0.0.1",
+    "mongoose": "^7.0.1",
+    "nodemon": "^2.0.21",
+    "prettier": "^2.8.4"
+  }
+}

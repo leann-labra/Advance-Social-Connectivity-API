@@ -17,7 +17,11 @@ Building an API for a social network web application using express.js for routin
 
 ## DESCRIPTION
 
-This application was made to practice building a RESTful API using a cloud database. Through this project I built routes to access models that access stored data in mongoDB. There is no front end to this project as this project is practicing backend server building skills. One of the bigger challenges I faced in this project is properly setting up the routes so that it would work properly. I did get my backend seed data to load onto mongodb, and the routes on insomnia would throw a 200 OK http status which shows that my routes went thorugh but for some reason would not pull the data. I still have much to learn but this what I got so far and I'm excited to getting better as time goes on!
+My goal for this project was to develop skills in building a RESTful API using a cloud database such as MongoDB. I particularly wanted to hone in on practicing my backend development skills focusing primarily on creating efficient routes to interact with the stored data. 
+
+Although this project does not include a front end as of yet, it does serve as foundational exercise in backend server construction. Once of the significant challenges I faced throughout this project was learning how to set up my routes correctly to ensure proper functionality. Despite successfully loading seed data into MongoDB and receiving a "200 OK" status update in Insomnia, the routes did not retrieve the data as expected. In all, this experience highlighted areas where I can commit to further learning and improvement. 
+
+In hindsight, this experience has highlighted areas in my skillset that still need further development. I look forward to overcoming these challenges as I continue to grow. 
 
 ## TEST
 

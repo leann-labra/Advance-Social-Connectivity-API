@@ -1,4 +1,4 @@
-SOCICAL NETWORKING API 
+## SOCICAL NETWORKING API 
 
 Building an API for a social network web application using express.js for routing and moongoose to store data.
 
